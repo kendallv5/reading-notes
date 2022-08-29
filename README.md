@@ -8,4 +8,4 @@
 
 **LinkedIn Profile**
 
-Link to Github profile ([https://github.com/kendallv5])
+Link to Github profile (https://github.com/kendallv5)
